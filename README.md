@@ -1,6 +1,6 @@
 ### Hi  👋
 
-- 🔭 I'm Samo (not my real name).
+- 🔭 I'm Samo.
 - 👾 I am a 15 year old software developer.
 - 📁 I do projects in Python, JavaScript programming languages.
 - 🌱 I’m currently learning C++.
