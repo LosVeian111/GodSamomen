@@ -1,3 +1,4 @@
+![Count](https://count.getloli.com/get/@godsamomen)
 ## Hewwo :3
 **My preferred name is Samo or Samomen :D and im a 15 years old**<br>
 **I build projects with python and javascript**<br>
